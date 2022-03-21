@@ -1,0 +1,10 @@
+C:\Users\EmreD\source\repos\Safe\Safe\bin\Debug\Safe.exe.config
+C:\Users\EmreD\source\repos\Safe\Safe\bin\Debug\Safe.exe
+C:\Users\EmreD\source\repos\Safe\Safe\bin\Debug\Safe.pdb
+C:\Users\EmreD\source\repos\Safe\Safe\obj\Debug\Safe.csproj.AssemblyReference.cache
+C:\Users\EmreD\source\repos\Safe\Safe\obj\Debug\Safe.Form1.resources
+C:\Users\EmreD\source\repos\Safe\Safe\obj\Debug\Safe.Properties.Resources.resources
+C:\Users\EmreD\source\repos\Safe\Safe\obj\Debug\Safe.csproj.GenerateResource.cache
+C:\Users\EmreD\source\repos\Safe\Safe\obj\Debug\Safe.csproj.CoreCompileInputs.cache
+C:\Users\EmreD\source\repos\Safe\Safe\obj\Debug\Safe.exe
+C:\Users\EmreD\source\repos\Safe\Safe\obj\Debug\Safe.pdb
